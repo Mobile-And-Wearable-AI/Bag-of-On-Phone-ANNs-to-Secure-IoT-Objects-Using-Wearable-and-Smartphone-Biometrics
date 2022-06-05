@@ -114,7 +114,7 @@ Files include:
   H_10pData_withNoise.xlsx
   HB_10pData_withNoise.xlsx
   HG_10pData_withNoise.xlsx
-  HGB_10pData_withNoise.xlsx
+  HGB_10pData_withNoise.xlsb
 '''
 
 File_Name = "data\HB_10pData_withNoise.xlsx"
